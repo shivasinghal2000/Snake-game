@@ -1,3 +1,3 @@
 # Snake-game
 
-It is the basic snake game built using c++.
+The game is developed in c++ language with the use of graphics and concepts of object oriented programming.
